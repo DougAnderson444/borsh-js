@@ -1,5 +1,5 @@
 {
-  "name": "borsh",
+  "name": "@douganderson444/borsh-js",
   "version": "0.4.0",
   "description": "Binary Object Representation Serializer for Hashing",
   "main": "lib/index.js",
